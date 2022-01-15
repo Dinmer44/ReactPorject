@@ -1,0 +1,41 @@
+body{
+  direction: rtl;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+nav{
+ text-align: center;
+
+ 
+}
+nav ul{
+ padding-top: 10px;
+  
+  
+
+
+}
+
+.app ul li{
+ 
+  display: inline;
+  
+  padding-left: 30px;
+  color: black;
+  
+ 
+}
+a{
+  text-decoration: none;
+  color: black;
+  
+}
+.red{
+  color: red;
+  
+}
+
+
+
+
+
